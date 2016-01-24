@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VinodVarma]]></title>
+        <description><![CDATA[VinodVarma]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jan 2016 17:44:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What's in a name when you are just as fine?</p>]]></description>
+            <link>undefined4391c425-0390-4f0b-a3d1-28bb9d4a3d16/index.html</link>
+            <guid isPermaLink="false">4391c425-0390-4f0b-a3d1-28bb9d4a3d16</guid>
+            <pubDate>Sun, 24 Jan 2016 17:44:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
